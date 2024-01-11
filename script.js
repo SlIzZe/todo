@@ -1,4 +1,4 @@
-//CRUD = Create Read Update Deleate
+//CRUD = Create Read Update Delete
 
 const decriptionTag = document.querySelector("#decription")
 const priorityTag = document.querySelector("#priority")
